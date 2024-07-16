@@ -1,5 +1,2 @@
-please note that the associated datasets and model parameters used in our experiments are not included in this repository. 
-﻿
-The datasets used in our research are subject to privacy and confidentiality agreements, which prohibit us from sharing them publicly. 
-﻿
+Please note that the PE-DAE+SPL method is part of a larger body of work that we are still developing and refining. The associated datasets and model parameters used in our experiments are not included in this repository. The datasets used in our research are subject to privacy and confidentiality agreements, which prohibit us from sharing them publicly. 
 The data and certain model parameters are proprietary and fall under intellectual property protections. Sharing them would require additional permissions and licensing agreements that are beyond the scope of this open-source release.
